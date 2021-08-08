@@ -44,3 +44,13 @@ $ serverless deploy
 ```
 $ sls deploy
 ```
+
+追加-Masataka, Nashiro
+
+> note
+> 
+> 下記コマンドのように必要なモジュールをインストールしておくようにする
+> 
+> ```
+> $ npm install node-fetch
+> ```
