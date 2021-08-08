@@ -45,12 +45,13 @@ $ serverless deploy
 $ sls deploy
 ```
 
-追加-Masataka, Nashiro
+ここから追加-Masataka, Nashiro
 
-> note
-> 
-> 下記コマンドのように必要なモジュールをインストールしておくようにする
-> 
-> ```
-> $ npm install node-fetch
-> ```
+:::note warn
+下記コマンドのように必要に応じてモジュールをインストールしてデプロイおくようにしないと「モジュールが見つからないエラー」になる。
+
+```
+$ npm install node-fetch
+```
+
+:::
